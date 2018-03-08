@@ -1,6 +1,6 @@
 {
   "name": "@dealerslink/node-mail-template-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple tools to merge data with email templates during run-time",
   "main": "index.js",
   "scripts": {
